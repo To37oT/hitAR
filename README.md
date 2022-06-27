@@ -1,2 +1,2 @@
 # hitAR
-Hit en réalité augmenté
+-Hit en réalité augmenté
